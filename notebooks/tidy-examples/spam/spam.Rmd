@@ -12,7 +12,7 @@ output:
     toc_depth: 4
     toc_float: yes
 abstract: |
-  A replication of the spam detection example that appear in Matt Taddy's "Business Data Science"m Chapter 2 under "Logistic Regression."
+  A replication of the spam detection example that appear in Matt Taddy's "Business Data Science", Chapter 2 under "Logistic Regression."
 ---
 
 ```{r setup, include=FALSE}
